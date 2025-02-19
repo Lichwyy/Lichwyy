@@ -19,3 +19,20 @@ boas práticas.
 - Facilidade do uso informático.
 - Facilidade de aprendizagem.
 - Cooperativo.
+
+### Educação
+
+- Bacharelado em Ciências da Computação
+Unimar - Terceiro Termo - Conclusão 2027
+- Ensino médio com curso técnico de Análise Desenvolvimento de Sistemas
+acoplado ETEC de Lins - Concluído em 2023
+
+### Experiência profissional
+- Em busca do primeiro emprego.
+
+### Idiomas
+- Inglês - Básico
+
+### Curso de aperfeiçoamento
+- Profissional Administrativo Tecnológico
+MicroPro - Concluído em 2021
