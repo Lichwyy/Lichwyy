@@ -1,6 +1,7 @@
 # Paulo Henrique AVL
 
-## Currículo
+## Telefone: (14) 99905-9596
+## Email: paulohenriqueavl291106@gmail.com
 
 ### Objetivo
 Em busca do primeiro emprego, também desejo aprimorar meus conhecimentos em
