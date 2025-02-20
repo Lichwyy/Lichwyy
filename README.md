@@ -47,6 +47,10 @@ print("Hello, World!")
 
 ```mermaid
 graph TD;
-    A-->B[oi];
-    A-->C[tchau];
+    A[
+        ||
+        ||
+        ||
+        ]-->B[O];
+    A-->C[O];
 ```
