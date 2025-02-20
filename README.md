@@ -43,14 +43,3 @@ print("Hello, World!")
 ```
 
 <p><img width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=Lichwyy&theme=tokyonight&hide_border=true" alt="Paulo AVL" /></p>
-
-
-```mermaid
-graph TD;
-    A[
-        ||
-        ||
-        ||
-        ]-->B[O];
-    A-->C[O];
-```
