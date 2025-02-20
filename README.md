@@ -21,7 +21,7 @@ boas práticas.
 - Facilidade de aprendizagem.
 - Cooperativo.
 
-### Educação
+### Educapão
 
 - Bacharelado em Ciências da Computação
 Unimar - Terceiro Termo - Conclusão 2027
