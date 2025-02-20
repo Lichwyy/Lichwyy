@@ -46,7 +46,7 @@ print("Hello, World!")
 
 
 ```mermaid
-flowchart;
-    A->B[oi];
-    A->C[tchau];
+graph TD;
+    A-->B[oi];
+    A-->C[tchau];
 ```
