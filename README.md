@@ -37,3 +37,9 @@ acoplado ETEC de Lins - Concluído em 2023
 ### Curso de aperfeiçoamento
 - Profissional Administrativo Tecnológico
 MicroPro - Concluído em 2021
+
+```python
+print("Hello, World!")
+```
+
+<p><img width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=Lichwyy&theme=tokyonight&hide_border=true" alt="Paulo AVL" /></p>
