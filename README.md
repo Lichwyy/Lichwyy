@@ -89,11 +89,3 @@ Inglês — Intermediário
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Lichwyy&show_icons=true&theme=tokyonight"/>
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lichwyy&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-```python
-print("Hello, World!")
-```
-
-Sempre aprendendo e explorando novas formas de resolver problemas com código.
